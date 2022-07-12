@@ -1,0 +1,26 @@
+
+
+
+mysql acces
+http://localhost/local/adminer/index.php
+
+
+php purge_caches.php
+
+opis znaczen poszczegolnych plikow wtyvzki
+https://moodledev.io/docs/apis/commonfiles
+
+
+generator plugonow
+https://moodle.org/plugins/tool_pluginskel
+
+https://docs.moodle.org/dev/XMLDB_creating_new_DDL_functions
+
+
+
+generowanie pliku instyal.xml w pluginie (tworzeie table wtyczki)
+https://docs.moodle.org/dev/XMLDB_editor
+
+
+acces to moodle xmldb editor
+http://localhost/admin/tool/xmldb/
