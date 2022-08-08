@@ -1,11 +1,25 @@
 
+////***GENRAL***//////
+
+
+
+waznew!!!!!!!!!!!!!! CZYSZCENIE BUFORA PAMIECI!!!!!
+
+http://localhost/admin/purgecaches.php
+
+1. otowrz terminal w glownym folderze instalcji
+2. admin/cli/purge_caches.php
+
+
+/////////////////////////////////////////////////////////
+
+
+
 
 
 mysql acces
 http://localhost/local/adminer/index.php
 
-
-php purge_caches.php
 
 opis znaczen poszczegolnych plikow wtyvzki
 https://moodledev.io/docs/apis/commonfiles
@@ -24,3 +38,48 @@ https://docs.moodle.org/dev/XMLDB_editor
 
 acces to moodle xmldb editor
 http://localhost/admin/tool/xmldb/
+
+rodzaje aktywnosci
+quizy, zadania, fora ,książki.
+
+
+wtyczki autentykcaji
+https://docs.moodle.org/dev/Authentication_plugins
+
+formaty kursow
+https://docs.moodle.org/dev/Course_formats
+
+//////////*****API******///////
+
+https://docs.moodle.org/dev/Core_APIs
+
+https://docs.moodle.org/dev/String_API
+
+https://docs.moodle.org/dev/Page_API
+
+https://docs.moodle.org/dev/Navigation_API
+
+https://docs.moodle.org/dev/Form_API
+
+https://docs.moodle.org/dev/Data_definition_API
+
+https://docs.moodle.org/dev/Data_manipulation_API
+
+https://docs.moodle.org/dev/Upgrade_API
+
+https://docs.moodle.org/dev/H5P
+
+
+
+
+//****CODE CHECKER USAGE********//
+
+https://moodle.academy/mod/book/view.php?id=851&chapterid=669
+
+
+//****PROCEDURA TWORXENI OBCEGO KLUCZA *********///
+!!!!!!!!!NAJPIERW TRZEBA STWORZYC POLE DO KOTREGO KLUCZ BEPOSREDNIO BEDZIE SIE ODNOSIŁ
+https://moodle.academy/mod/book/view.php?id=906&chapterid=721
+
+
+

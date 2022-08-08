@@ -1,0 +1,15 @@
+$CFG : Ta globalna zmienna zawiera wartości konfiguracyjne ustawień Moodle, takie jak katalog główny, katalog danych, szczegóły bazy danych i inne wartości konfiguracyjne. 
+
+$SESSION : Nakładka Moodle'a na PHP$_SESSION .
+
+$USER : Przechowuje rekord tabeli użytkownika dla bieżącego użytkownika. Będzie to  rekord użytkownika „gościa” dla osób, które nie są zalogowane.
+
+$SITE : Rekord kursu na pierwszej stronie. To jest rekord kursu z id=1.
+
+$COURSE : Ta globalna zmienna przechowuje szczegóły bieżącego kursu. Alias ​​dla $PAGE->course.
+
+$PAGE : Jest to centralny magazyn informacji o bieżącej stronie, którą  generujemy w odpowiedzi na żądanie użytkownika.
+
+$OUTPUT : $OUTPUT jest instancją core_rendererlub jedną z jej podklas. Służy  do generowania kodu HTML do wyjścia.
+
+$DB : Zawiera szczegóły połączenia z bazą danych. Służy do pełnego dostępu do bazy danych.
